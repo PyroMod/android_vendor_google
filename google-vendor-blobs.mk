@@ -20,6 +20,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_COPY_FILES += \
     vendor/google/proprietary/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
     vendor/google/proprietary/app/FaceLock.apk:system/app/FaceLock.apk \
+    vendor/google/proprietary/app/GalleryGoogle.apk:system/app/GalleryGoogle.apk \
     vendor/google/proprietary/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/google/proprietary/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
     vendor/google/proprietary/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
@@ -27,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/proprietary/app/GoogleFeedback.apk:system/app/GoogleFeedback.apk \
     vendor/google/proprietary/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
     vendor/google/proprietary/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
+    vendor/google/proprietary/app/GoogleQuickSearchBox.apk:system/app/GoogleQuickSearchBox.apk \
     vendor/google/proprietary/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
     vendor/google/proprietary/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/proprietary/app/MarketUpdater.apk:system/app/MarketUpdater.apk \
@@ -36,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/proprietary/app/Phonesky.apk:system/app/Phonesky.apk \
     vendor/google/proprietary/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/proprietary/app/Talk.apk:system/app/Talk.apk \
-    vendor/google/proprietary/app/VoiceSearch.apk:system/app/VoiceSearch.apk \
     vendor/google/proprietary/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/google/proprietary/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/google/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
