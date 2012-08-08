@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/proprietary/app/GoogleFeedback.apk:system/app/GoogleFeedback.apk \
     vendor/google/proprietary/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
     vendor/google/proprietary/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
-    vendor/google/proprietary/app/GoogleQuickSearchBox.apk:system/app/GoogleQuickSearchBox.apk \
     vendor/google/proprietary/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
     vendor/google/proprietary/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/proprietary/app/MarketUpdater.apk:system/app/MarketUpdater.apk \
