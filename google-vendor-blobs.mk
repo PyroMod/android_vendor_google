@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/proprietary/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/proprietary/app/Talk.apk:system/app/Talk.apk \
     vendor/google/proprietary/app/Velvet.apk:system/app/Velvet.apk \
-    vendor/google/proprietary/app/VoiceSearch.apk:system/app/VoiceSearch.apk \
     vendor/google/proprietary/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/google/proprietary/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/google/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
